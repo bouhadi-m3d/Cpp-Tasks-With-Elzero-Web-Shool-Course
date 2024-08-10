@@ -4,7 +4,7 @@ This repository contains solutions to tasks from the Elzero Web School C++ cours
 
 ## Course Information
 
-- **Course Playlist:** [YouTube Link](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=WTceGdvY4bEmo0pj)
+- **Course Playlist:** [Fundamentals Of Programming With C++](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=WTceGdvY4bEmo0pj)
 
 ## About
 
